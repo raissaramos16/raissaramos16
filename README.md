@@ -1,4 +1,4 @@
-- 👋 ola,meu nome é @raissaramos16
+- 👋 ola,meu nome é **@raissaramos16**
 - 👀 saber sobre programacao da plataforma
 - 🌱 buscar aprendizados
 - 💞️ aprender sobre criações
