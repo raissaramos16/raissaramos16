@@ -1,0 +1,5 @@
+- 👋 ola,meu nome é @raissaramos16
+- 👀 saber sobre programacao da plataforma
+- 🌱 buscar aprendizados
+- 💞️ aprender sobre criações
+- 📫 sou de Curitiba [PR].
